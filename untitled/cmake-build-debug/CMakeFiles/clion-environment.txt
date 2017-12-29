@@ -1,3 +1,7 @@
 Options: 
+<<<<<<< HEAD
 
 Options:
+=======
+CMake: 3.8.2@/home/shantengfei/Downloads/clion-2017.2.3/bin/cmake/bin/cmake
+>>>>>>> 78676879a57c113820536cc90c05e19da6136945

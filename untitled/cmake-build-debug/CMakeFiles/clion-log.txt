@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /home/shantengfei/Downloads/clion-2017.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shantengfei/CLionProjects/untitled
+=======
+/home/shantengfei/Downloads/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shantengfei/CLionProjects/untitled
+>>>>>>> 78676879a57c113820536cc90c05e19da6136945
 -- The C compiler identification is GNU 4.8.4
 -- The CXX compiler identification is GNU 4.8.4
 -- Check for working C compiler: /usr/bin/cc
