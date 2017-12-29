@@ -1,0 +1,3 @@
+/home/shantengfei/CLionProjects/8Fun/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shantengfei/CLionProjects/8Fun/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shantengfei/CLionProjects/8Fun/cmake-build-debug/CMakeFiles/8Fun.dir

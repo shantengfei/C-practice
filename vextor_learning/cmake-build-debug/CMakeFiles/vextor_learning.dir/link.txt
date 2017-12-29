@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/vextor_learning.dir/main.cpp.o CMakeFiles/vextor_learning.dir/SalraySys.cpp.o  -o vextor_learning 
