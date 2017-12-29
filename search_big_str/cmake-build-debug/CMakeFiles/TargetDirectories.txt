@@ -1,0 +1,3 @@
+/home/shantengfei/CLionProjects/search_big_str/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shantengfei/CLionProjects/search_big_str/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shantengfei/CLionProjects/search_big_str/cmake-build-debug/CMakeFiles/search_big_str.dir

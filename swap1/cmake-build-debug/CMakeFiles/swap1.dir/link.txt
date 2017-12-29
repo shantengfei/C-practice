@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/swap1.dir/main.cpp.o  -o swap1 

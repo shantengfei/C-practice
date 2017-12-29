@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/deletechar.dir/main.cpp.o  -o deletechar 

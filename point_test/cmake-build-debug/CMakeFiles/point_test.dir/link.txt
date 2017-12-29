@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/point_test.dir/main.cpp.o  -o point_test 

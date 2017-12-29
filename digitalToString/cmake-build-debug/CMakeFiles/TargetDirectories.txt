@@ -1,0 +1,3 @@
+/home/shantengfei/CLionProjects/digitalToString/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shantengfei/CLionProjects/digitalToString/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shantengfei/CLionProjects/digitalToString/cmake-build-debug/CMakeFiles/digitalToString.dir

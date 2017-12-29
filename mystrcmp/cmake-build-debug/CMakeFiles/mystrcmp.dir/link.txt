@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mystrcmp.dir/main.cpp.o  -o mystrcmp 

@@ -1,0 +1,3 @@
+/home/shantengfei/CLionProjects/revstr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shantengfei/CLionProjects/revstr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shantengfei/CLionProjects/revstr/cmake-build-debug/CMakeFiles/revstr.dir

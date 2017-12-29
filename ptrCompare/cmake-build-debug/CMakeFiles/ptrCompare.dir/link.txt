@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ptrCompare.dir/main.cpp.o  -o ptrCompare 

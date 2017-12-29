@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/funptr.dir/main.cpp.o  -o funptr 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/revstr.dir/main.cpp.o  -o revstr 

@@ -1,0 +1,3 @@
+/home/shantengfei/CLionProjects/swap1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shantengfei/CLionProjects/swap1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shantengfei/CLionProjects/swap1/cmake-build-debug/CMakeFiles/swap1.dir
