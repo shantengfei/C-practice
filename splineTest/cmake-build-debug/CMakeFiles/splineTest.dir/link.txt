@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/splineTest.dir/main.cpp.o CMakeFiles/splineTest.dir/cubicSpline.cpp.o  -o splineTest 

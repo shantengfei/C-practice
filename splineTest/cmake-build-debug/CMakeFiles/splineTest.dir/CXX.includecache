@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shantengfei/CLionProjects/splineTest/cmake-build-debug/cubicSpline.cpp
+cubicSpline.h
+/home/shantengfei/CLionProjects/splineTest/cmake-build-debug/cubicSpline.h
+cstring
+-
+stddef.h
+-
+stdio.h
+-
+fstream
+-
+string
+-
+iostream
+-
+streambuf
+-
+
+/home/shantengfei/CLionProjects/splineTest/cmake-build-debug/cubicSpline.h
+fstream
+-
+
+/home/shantengfei/CLionProjects/splineTest/main.cpp
+iostream
+-
+cstdio
+-
+cmake-build-debug/cubicSpline.h
+/home/shantengfei/CLionProjects/splineTest/cmake-build-debug/cubicSpline.h
+
